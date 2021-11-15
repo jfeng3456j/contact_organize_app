@@ -1,0 +1,14 @@
+  "dependencies": {
+    //bcryptjs is for password encryption
+    "bcryptjs": "^2.4.3",
+    //config is for environment variable
+    "config": "^3.3.6",
+    //express is a web server
+    "express": "^4.17.1",
+    //express-validator is used for email validation etc
+    "express-validator": "^6.13.0",
+    //jwt is used for client authentification
+    "jsonwebtoken": "^8.5.1",
+    //mongoose is used for mongo connection
+    "mongoose": "^6.0.12"
+  }
